@@ -1,0 +1,25 @@
+.table {
+    margin: 170px;
+    width: 70%;
+    font-family: sans-serif;
+    color: #232323;
+    border-collapse: collapse;
+    
+}
+ 
+.table, th, td {
+    border: 1px solid #999;
+    padding: 10px 20px ;
+}
+.no{
+    width: 2px;
+}
+.day1{
+    width: 5px;
+}
+.day2{
+    width: 5px;
+}
+.day3{
+    width: 5px;
+}
